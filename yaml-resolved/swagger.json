@@ -1,16 +1,16 @@
 ---
 swagger: "2.0"
 info:
-  description: This is a simple API. Version 1
+  description: This is a simple API.
   version: 1.0.0
   title: Simple Inventory API
   contact:
-    email: you@your-company.com
+    email: vathakur@deloitte.com.au
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
 host: virtserver.swaggerhub.com
-basePath: /Deloitte368/EPAFoundation1/1.0.0
+basePath: /Deloitte368/IsThisAPIReady/1.0.0
 tags:
 - name: admins
   description: Secured Admin-only calls
