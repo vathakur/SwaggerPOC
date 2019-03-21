@@ -31,4 +31,5 @@ paths:
           description: this is a sample response
           schema:
             type: string
+            example: This is a sample response
 definitions: {}
