@@ -22,7 +22,7 @@ paths:
   /deloitte:
     get:
       description: |
-        this is a sample operation
+        this is a sample get operation
       produces:
       - application/json
       parameters: []
@@ -32,4 +32,11 @@ paths:
           schema:
             type: string
             example: This is a sample response
+    post:
+      description: |
+        this is a sample post operation
+      parameters: []
+      responses:
+        201:
+          description: OK
 definitions: {}
