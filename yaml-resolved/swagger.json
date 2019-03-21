@@ -39,4 +39,18 @@ paths:
       responses:
         201:
           description: OK
+  /EPA:
+    get:
+      description: Sample
+      parameters: []
+      responses:
+        200:
+          description: OK
+    post:
+      description: |
+        this is a sample post response
+      parameters: []
+      responses:
+        201:
+          description: OK
 definitions: {}
